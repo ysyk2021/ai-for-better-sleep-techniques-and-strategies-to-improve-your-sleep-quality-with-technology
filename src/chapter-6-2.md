@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-=======================================================================================================
 
 As artificial intelligence (AI) continues to be integrated into sleep improvement and management tools, it is important to consider the potential ethical and bias risks associated with these technologies. In this chapter, we will discuss some of the ways in which ethics and bias can impact AI-driven better sleep, as well as strategies for mitigating these risks and ensuring compliance.
 

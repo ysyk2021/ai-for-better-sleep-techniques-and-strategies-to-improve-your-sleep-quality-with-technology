@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Better Sleep
-============================================================
 
 Artificial Intelligence (AI) has opened up new opportunities for optimizing sleep quality. From wearable devices to smart home integration, there are a variety of tools and technologies available that leverage AI for better sleep.
 

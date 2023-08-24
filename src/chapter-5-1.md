@@ -1,5 +1,3 @@
-AI-Driven Relaxation and Stress Reduction Techniques
-================================================================================================
 
 Relaxation and stress reduction are critical for achieving a good night's sleep. Artificial Intelligence (AI) can help individuals manage stress and improve relaxation through personalized interventions that cater to individual needs.
 

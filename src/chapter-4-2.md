@@ -1,5 +1,3 @@
-Automated Ambient Sound and Light Control using AI
-==================================================================================================
 
 The sleep environment plays a critical role in determining the quality of our sleep. Artificial Intelligence (AI) can help individuals optimize their sleep environment through automated ambient sound and light control.
 

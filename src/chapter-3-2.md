@@ -1,5 +1,3 @@
-Predictive Analytics and Forecasting for Sleep Improvement
-=======================================================================================================================
 
 Artificial Intelligence (AI) can help individuals monitor and analyze sleep patterns to identify factors that may be impacting sleep quality. By leveraging predictive analytics and forecasting, individuals can develop personalized interventions that promote better sleep quality.
 

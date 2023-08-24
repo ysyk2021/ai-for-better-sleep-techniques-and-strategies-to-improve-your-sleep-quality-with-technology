@@ -1,5 +1,3 @@
-Personalized Sleep Recommendations and Interventions using AI
-=========================================================================================================
 
 Artificial Intelligence (AI) has the potential to transform the way we approach sleep and improve our sleep quality. By leveraging AI technologies, we can personalize sleep recommendations and interventions to better meet individual needs.
 

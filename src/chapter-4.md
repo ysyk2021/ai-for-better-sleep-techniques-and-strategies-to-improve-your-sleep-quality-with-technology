@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Sleep Environment with AI
-==============================================
 
 The sleep environment plays a critical role in determining the quality of our sleep. Artificial Intelligence (AI) can help individuals optimize their sleep environment through AI-powered smart home devices and automated ambient sound and light control.
 

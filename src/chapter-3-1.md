@@ -1,5 +1,3 @@
-Using AI for Real-Time Sleep Tracking and Analysis
-===============================================================================================================
 
 Artificial Intelligence (AI) can help individuals monitor and analyze sleep patterns in real-time to identify factors that may be impacting sleep quality. By leveraging AI for real-time sleep tracking and analysis, individuals can develop personalized interventions that promote better sleep quality.
 

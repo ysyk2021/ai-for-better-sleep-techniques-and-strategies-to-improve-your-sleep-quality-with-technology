@@ -1,5 +1,3 @@
-Chapter 6: Managing Ethics and Bias in AI-Driven Better Sleep
-=============================================================
 
 Artificial Intelligence (AI) has the potential to transform the way we approach sleep and improve our sleep quality. However, as with any technology, there are ethical and bias considerations that must be taken into account.
 

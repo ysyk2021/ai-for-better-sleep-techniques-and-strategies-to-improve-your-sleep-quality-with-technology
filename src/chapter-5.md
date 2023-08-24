@@ -1,5 +1,3 @@
-Chapter 5: Improving Sleep Quality with AI
-==========================================
 
 Artificial Intelligence (AI) has the potential to transform the way we approach sleep and improve our sleep quality. By leveraging AI technologies, we can develop personalized interventions that cater to individual needs and promote relaxation, stress reduction, and better sleep quality.
 
