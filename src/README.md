@@ -12,3 +12,7 @@ Throughout the book, we'll emphasize the importance of ethical considerations wh
 In short, "AI for Better Sleep" is a comprehensive guidebook for anyone interested in using machine learning to improve their sleep quality. Whether you're a sleep enthusiast or a technology lover, this book will provide you with the knowledge and tools you need to thrive in the rapidly evolving world of AI-powered sleep optimization.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
