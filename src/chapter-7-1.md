@@ -1,5 +1,4 @@
-Chapter 12: Emerging Trends in AI for Sleep Improvement and Management
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting emerging trends in AI for sleep improvement and management. As technology continues to advance, new applications of AI are being developed to enhance sleep quality, address sleep disorders, and provide personalized sleep management solutions. These innovative trends hold immense promise for transforming the way we approach sleep health.
 

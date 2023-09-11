@@ -1,5 +1,4 @@
-Chapter 8: Automated Ambient Sound and Light Control Using AI
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the benefits and techniques of using AI to automate ambient sound and light control for better sleep. The combination of soothing sounds and appropriate lighting has a significant impact on sleep quality. By leveraging AI technology, it is possible to create personalized and automated systems that optimize ambient sound and light conditions to promote relaxation and improve sleep.
 

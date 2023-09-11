@@ -1,5 +1,4 @@
-Chapter 11: Importance of Ethical and Unbiased Sleep Improvement Practices
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of ethical and unbiased sleep improvement practices when utilizing AI and technology to enhance sleep quality. While AI-powered devices and technologies offer promising solutions for better sleep, it is essential to prioritize ethics, fairness, and unbiased approaches to ensure the well-being and privacy of individuals seeking sleep improvement.
 

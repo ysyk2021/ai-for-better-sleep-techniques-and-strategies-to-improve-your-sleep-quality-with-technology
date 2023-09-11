@@ -1,5 +1,4 @@
-Chapter 6: AI-Powered Smart Home Devices for Sleep Environment Optimization
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI-powered smart home devices can revolutionize the sleep environment and enhance sleep quality. Sleep plays a crucial role in our overall well-being, and optimizing the sleep environment is key to achieving restful and rejuvenating sleep. By leveraging AI technology, smart home devices can actively monitor and regulate various factors that affect sleep, creating an optimal environment for improved sleep quality.
 
